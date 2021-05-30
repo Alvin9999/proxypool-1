@@ -1,4 +1,4 @@
-    domain: clash.3wking.cn
+    domain: clash.3wking.com:12580
     port:                 # default 12580
     # source list file
     source-files:
